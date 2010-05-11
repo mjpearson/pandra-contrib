@@ -6,7 +6,7 @@
  * @copyright 2010 phpgrease.net
  * @license http://www.gnu.org/licenses/lgpl.html GNU Lesser General Public License
  * @version 0.2
- * @package pandra
+ * @package pandra-contrib
  */
 class PandraUUIDPluginOSSP implements PandraUUIDPlugin {
 

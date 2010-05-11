@@ -1,0 +1,45 @@
+== pandra-contrib ==
+
+Copyright (C) 2010 Michael Pearson <pandra-support@phpgrease.net>
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 3 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+- Usage
+
+  pandra-contrib is a set of user contributed plugins usable by Pandra.  They
+can be copied straight over the top of, or symlinked from, your base Pandra install.
+
+- Dependencies
+
+        * Cassandra >= 0.6
+
+        * Pandra >= 0.2
+
+        * PHP >= 5.3
+
+        **note: Plugins may enforce their own dependancies
+
+- Download
+
+        Latest snapshot :  git clone git://github.com/mjpearson/pandra-contrib.git .
+
+- Community
+
+        The Pandra homepage is http://www.phpgrease.net/projects/Pandra
+
+        For feedback, bugs and general support discussion see http://groups.google.com/group/pandra-user
+
+        Developers : http://groups.google.com/group/pandra-dev
+
+        Github users may also log bugs directly via http://github.com/mjpearson/pandra-contrib/issues
